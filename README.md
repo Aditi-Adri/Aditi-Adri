@@ -27,7 +27,6 @@ BRAC University, Dhaka, Bangladesh
 <a href="https://codeforces.com/profile/Star_2002">
     <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Star_2002&theme=dark&force_username=true" /></a>
 
-
 </p>
 <br>
 
