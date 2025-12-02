@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=Aditi-Adri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">Portfolio : https://aditi-adri.github.io/AditiRoyAdri/</h3>
+🔗 **[Portfolio Website](https://aditi-adri.github.io/AditiRoyAdri/)**
 
 ## Education :
 Computer Science & Engineering
