@@ -1,3 +1,13 @@
+<!--
+This GitHub profile belongs to Aditi Roy Adri, a Computer Science & Engineering student at BRAC University.
+Skills: Python, C++, Machine Learning, Data Structures, Algorithms, OpenGL, Git.
+Online Profiles: Portfolio, LinkedIn, GitHub, Facebook.
+Search Keywords: Aditi Roy Adri GitHub, Aditi Adri, Aditi Roy BRAC University, Aditi Roy Adri Developer, Aditi Roy Adri Python.
+Portfolio: [https://aditi-adri.github.io/AditiRoyAdri/](https://aditi-adri.github.io/AditiRoyAdri/)
+LinkedIn: [https://www.linkedin.com/in/...](https://www.linkedin.com/in/...)
+GitHub: [https://github.com/Aditi-Adri](https://github.com/Aditi-Adri)
+-->
+
 <!-- PROFILE INTRO SEO -->
 # Hi, I'm **Aditi Roy Adri** 👋  
 CSE Student at **BRAC University** | Python & C++ Developer | Machine Learning Enthusiast  
