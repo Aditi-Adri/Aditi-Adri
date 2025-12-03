@@ -1,3 +1,6 @@
+// # Hi, I'm Aditi Roy Adri 👋
+// CSE student at BRAC University | Python, C++, ML |  
+
 <h1 align="center">Hi<img src="https://github.com/debjotyms/debjotyms/blob/main/dancing-om-nom.gif" height="55px" width="55px">, I'M ADITI ROY ADRI</h1>
 
 
