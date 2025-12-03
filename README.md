@@ -11,7 +11,7 @@ CSE Student at **BRAC University** | Python & C++ Developer | Machine Learning E
 
 ---
 
-## 🔗 **Official Links (Important for SEO)**
+## 🔗 **Official Links **
 - 🌐 **Portfolio:** https://aditi-adri.github.io/AditiRoyAdri/  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aditi-roy-adri-33b817323/  
 - 💙 **Facebook:** https://facebook.com/profile.php?id=100086452125359  
