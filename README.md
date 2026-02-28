@@ -76,9 +76,7 @@ GitHub: [https://github.com/Aditi-Adri](https://github.com/Aditi-Adri)
 </h3>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Aditi-Adri&icon=5&color=12" />
-  </a>
+  [![](https://visitcount.itsvg.in/api?id=Aditi-Adri&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 ---
