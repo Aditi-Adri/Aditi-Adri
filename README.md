@@ -76,31 +76,30 @@ GitHub: [https://github.com/Aditi-Adri](https://github.com/Aditi-Adri)
 </h3>
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=Aditi-Adri&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Aditi-Adri&icon=5&color=12" />
+  </a>
 </p>
 
 ---
+
 ## 🔗 Official Links
 
-<p align="center">
+<div align="center">
 
-<a href="https://aditi-adri.github.io/AditiRoyAdri/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+🌐 **Portfolio**  
+https://aditi-adri.github.io/AditiRoyAdri/
 
-<a href="https://www.linkedin.com/in/aditi-roy-adri-33b817323/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+💼 **LinkedIn**  
+https://www.linkedin.com/in/aditi-roy-adri-33b817323/
 
-<a href="https://facebook.com/profile.php?id=100086452125359" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+💙 **Facebook**  
+https://facebook.com/profile.php?id=100086452125359  
 
-<a href="https://github.com/Aditi-Adri" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+🐙 **GitHub**  
+https://github.com/Aditi-Adri  
 
-</p>
+</div>
 
 ---
 
