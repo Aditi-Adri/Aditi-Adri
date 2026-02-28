@@ -66,8 +66,8 @@ GitHub: [https://github.com/Aditi-Adri](https://github.com/Aditi-Adri)
 <!-- PROFILE INTRO SEO -->
 
 <h1 align="center">
-  Hi <img src="https://github.com/debjotyms/debjotyms/blob/main/dancing-om-nom.gif" height="55px" width="55px"><br>
-  I'M <br>
+  Hi <img src="https://github.com/debjotyms/debjotyms/blob/main/dancing-om-nom.gif" height="55px" width="55px">
+  I'M
   <span style="color:#ff4c68;">ADITI ROY ADRI</span>
 </h1>
 
@@ -83,36 +83,27 @@ GitHub: [https://github.com/Aditi-Adri](https://github.com/Aditi-Adri)
 
 ---
 
-## 🔗 Official Links
+## 🔗 Portfolio :
 
 <p align="center">
   <a href="https://aditi-adri.github.io/AditiRoyAdri/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-ff4c68?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/aditi-roy-adri-33b817323/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/profile.php?id=100086452125359">
-    <img src="https://img.shields.io/badge/💙_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aditi-Adri">
-    <img src="https://img.shields.io/badge/🐙_GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 🎓 About Me
+## 🎓 About Me : 
 
 <p align="center">
-I am <b>Aditi Roy Adri</b>, a Computer Science & Engineering student at <b>BRAC University</b>, Dhaka, Bangladesh. <br><br>
+I am <b>Aditi Roy Adri</b>, a Computer Science & Engineering student at <b>BRAC University</b>, Dhaka, Bangladesh. <br>
 💡 Skilled in Python, C++, Machine Learning, Data Structures, Algorithms & OpenGL Graphics. <br>
 🚀 Passionate about building real-world projects and solving programming challenges.
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack : 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -132,7 +123,7 @@ I am <b>Aditi Roy Adri</b>, a Computer Science & Engineering student at <b>BRAC 
 
 <p align="center">
   <a href="https://codeforces.com/profile/Star_2002">
-    <img src="https://img.shields.io/badge/Codeforces-Star_2002-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces:-Star_2002-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
@@ -145,19 +136,9 @@ I am <b>Aditi Roy Adri</b>, a Computer Science & Engineering student at <b>BRAC 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-Adri&theme=radical&hide_border=true" />
-<br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-Adri&theme=radical&hide_border=true" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-Adri&theme=radical&hide_border=true&layout=compact" />
-</p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aditi-Adri&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
