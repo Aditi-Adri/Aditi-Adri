@@ -68,7 +68,7 @@ GitHub: [https://github.com/Aditi-Adri](https://github.com/Aditi-Adri)
 <h1 align="center">
   Hi <img src="https://github.com/debjotyms/debjotyms/blob/main/dancing-om-nom.gif" height="55px" width="55px">
   I'M
-  <span style="color:#ff4c68;">ADITI ROY ADRI</span>
+  <span style="color:#ff4c68;">"ADITI ROY ADRI"</span>
 </h1>
 
 <h3 align="center">
